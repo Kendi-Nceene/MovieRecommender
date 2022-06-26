@@ -15,7 +15,7 @@ SET REPO_DOWNLOAD_URL=https://github.com/kandikits/MovieRecommender/releases/dow
 SET REPO_DEPENDENCIES_URL=https://github.com/kandikits/MovieRecommender/raw/master/requirements.txt
 SET REPO_NAME=MovieRecommender-master.zip
 SET EXTRACTED_REPO_DIR=MovieRecommender-master
-SET NOTEBOOK_NAME=MovieRecommender-master.ipynb
+SET NOTEBOOK_NAME=MovieRecommender.ipynb
 where /q python
 IF ERRORLEVEL 1 (
 	ECHO==========================================================================
