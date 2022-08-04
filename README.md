@@ -6,13 +6,13 @@
 
 [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/Kendi-Nceene/MovieRecommender)
 [![version](https://img.shields.io/badge/version-2022.06-brightgreen.svg)](https://github.com/Kendi-Nceene/MovieRecommender)
-[![GitHub Issues](https://img.shields.io/github/issues/MartinKondor/MovieRecommender.svg)](https://github.com/Kendi-Nceene/MovieRecommender)
+[![GitHub Issues](https://img.shields.io/github/issues/Kendi-Nceene/https://github.com/Kendi-Nceene/MovieRecommender)](https://github.com/Kendi-Nceene/MovieRecommender)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Movie recommender AI. Trained on the [MovieLens](https://grouplens.org/datasets/movielens/) dataset.
 
-[https://martinkondor.github.io/MovieRecommender/](https://martinkondor.github.io/MovieRecommender/)
+[https://github.com/Kendi-Nceene/MovieRecommender/](https://github.com/Kendi-Nceene/MovieRecommender/)
 
 ## Getting Started
 
@@ -77,10 +77,4 @@ This project is open for any kind of contribution from anyone.
 
 ## Authors
 
-**https://github.com/Kendi-Nceene/MovieRecommender**
-
-<p align="center">
-<a title="Fiverr" href="https://www.fiverr.com/martinkondor">
-<img id="fiverr-img" class="img-responsive" alt="Hire me on fiverr!" title="Hire me on fiverr!" src="https://martinkondor.github.io/img/hire_me_on_fiverr_button.png" width="222">
-</a>
-</p>
+**https://github.com/Kendi-Nceene/MovieRecommender*
