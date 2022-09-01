@@ -77,4 +77,4 @@ This project is open for any kind of contribution from anyone.
 
 ## Authors
 
-** https://kendi-nceene.github.io/MovieRecommender/*
+** https://github.com/Kendi-Nceene/MovieRecommender/*
