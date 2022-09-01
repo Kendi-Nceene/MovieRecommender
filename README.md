@@ -32,7 +32,7 @@ $ python -m pip install -r requirements.txt
 
 ### Usage
 
-__You can try it online:  https://kendi-nceene.github.io/MovieRecommender/
+__You can try it online:   https://kendi-nceene.github.io/MovieRecommender/
 
 __Or You have to run the python file, and give the liked movie's title as an argument:__
 ```
